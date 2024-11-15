@@ -1,4 +1,4 @@
-# 💬 ¡Hola, mundo! 👋
+# ¡Hola, mundo! 👋
 
 Soy **Mauricio Gaggero**,  técnico en **Desarrollo de Software**. Actualmente desarrollando en el ecosistema **.NET**, trabajando tanto con **.NET Framework 4.7** como con **.NET 8 Core**, y lenguaje **C#**.
 
