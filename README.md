@@ -4,8 +4,8 @@ Soy **Mauricio Gaggero**,  técnico en **Desarrollo de Software**. Actualmente d
 
 En mi día a día, utilizo herramientas como **Entity Framework** para interactuar con bases de datos y me encuentro explorando tecnologías emergentes como **Blazor** para aplicaciones web interactivas. En el diseño del frontend, manejo **HTML**, **CSS** y **Bootstrap** para crear interfaces atractivas y funcionales. _
 
-📂 Aquí puedes explorar mis repositorios:  
+📂 Aquí puedes ver mis repositorios:  
 [Mis proyectos en GitHub](https://github.com/maurigaggero?tab=repositories)
 
-🔗 Conéctemos en LinkedIn:  
+🔗 Conectar en LinkedIn:  
 [Mi perfil de LinkedIn](http://linkedin.com/in/mauriciogaggero)
