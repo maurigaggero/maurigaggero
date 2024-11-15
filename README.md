@@ -1,7 +1,11 @@
-# 💬 Hola mundo! _
+# 💬 ¡Hola, mundo! 👋
 
- Soy programador💻, técnico en **Desarrollo de Software**, actualmente me desenvuelvo en **.NET**, _tanto Framework 4.7 como Core en su versión 6_, y lenguaje **C#**. Me valgo de herramientas como Entity Framework o el reciente y novedoso  **_Blazor_**, en conjunto con base de datos SQL Server. Para diseñar el frontend lo escencial: HTML, CSS y Bootstrap.
+Soy **Mauricio Gaggero**,  técnico en **Desarrollo de Software**. Actualmente desarrollando en el ecosistema **.NET**, trabajando tanto con **.NET Framework 4.7** como con **.NET 8 Core**, y lenguaje **C#**.
 
-[-> Aquí puedes ver mis repositorios GitHub✔](https://github.com/maurigaggero?tab=repositories)
+En mi día a día, utilizo herramientas como **Entity Framework** para interactuar con bases de datos y me encuentro explorando tecnologías emergentes como **Blazor** para aplicaciones web interactivas. En el diseño del frontend, manejo **HTML**, **CSS** y **Bootstrap** para crear interfaces atractivas y funcionales. _
 
-[-> Y aquí contactarme en LinkedIn📌](http://linkedin.com/in/mauriciogaggero)
+📂 Aquí puedes explorar mis repositorios:  
+[Mis proyectos en GitHub](https://github.com/maurigaggero?tab=repositories)
+
+🔗 Conéctemos en LinkedIn:  
+[Mi perfil de LinkedIn](http://linkedin.com/in/mauriciogaggero)
