@@ -1,11 +1,27 @@
-# ¡Hola, mundo! 👋
+#  ¡Hola mundo! 👋
+ Soy Mauricio Gaggero
+ 
+ 🎓 Técnico en **Desarrollo de Software**  
+💻 Desarrollador especializado en **.NET Framework 4.7**, **.NET 8**, y lenguaje **C#**
 
-Soy **Mauricio Gaggero**,  técnico en **Desarrollo de Software**. Actualmente desarrollando en el ecosistema **.NET**, trabajando tanto con **.NET Framework 4.7** como con **.NET 8 Core**, y lenguaje **C#**.
+---
 
-En mi día a día, utilizo herramientas como **Entity Framework** para interactuar con bases de datos y me encuentro explorando nuevas tecnologías como **Blazor** para aplicaciones web interactivas. En el diseño del frontend, manejo **HTML**, **CSS** y **Bootstrap** para crear interfaces atractivas y funcionales. _
+### 🚀 Sobre mí
 
-📂 Aquí puedes ver mis repositorios:  
-[Mis proyectos en GitHub](https://github.com/maurigaggero?tab=repositories)
+Actualmente desarrollo aplicaciones modernas en el ecosistema .NET. Trabajo con:
 
-🔗 Conectar en LinkedIn:  
-[Mi perfil de LinkedIn](http://linkedin.com/in/mauriciogaggero)
+- ⚙️ **Entity Framework** para acceder a bases de datos **SQL Server**
+- 🧪 **Blazor** para crear aplicaciones web interactivas (y un poco de ayuda JS)
+- 🎨 Diseño frontends con **HTML**, **CSS** y **Bootstrap**
+
+---
+
+### 🛠️ Herramientas que uso
+- Git, Visual Studio, Azure, Postman
+
+---
+
+### 🌐 Conectá conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](http://linkedin.com/in/mauriciogaggero)  [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/maurigaggero) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/543572667719) [![Email](https://img.shields.io/badge/Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:mauricio.gaggero@hotmail.com)
+
