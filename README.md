@@ -2,7 +2,7 @@
  Soy Mauricio Gaggero
  
  🎓 Técnico en **Desarrollo de Software**  
-💻 Desarrollador especializado en **.NET Framework 4.7**, **.NET 8**, y lenguaje **C#**
+💻 Desarrollador especializado en lenguaje **C#**,  **.NET 8** y **Framework 4.7**
 
 ---
 
